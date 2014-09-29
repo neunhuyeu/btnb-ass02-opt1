@@ -1,1 +1,6 @@
 E:\Project\BTNB\btnb-ass02-opt1\Application_Bee\Application_Bee\bin\Debug\Application_Bee.exe.config
+E:\Project\BTNB\btnb-ass02-opt1\Application_Bee\Application_Bee\bin\Debug\Application_Bee.exe
+E:\Project\BTNB\btnb-ass02-opt1\Application_Bee\Application_Bee\bin\Debug\Application_Bee.pdb
+E:\Project\BTNB\btnb-ass02-opt1\Application_Bee\Application_Bee\obj\Debug\Application_Bee.csprojResolveAssemblyReference.cache
+E:\Project\BTNB\btnb-ass02-opt1\Application_Bee\Application_Bee\obj\Debug\Application_Bee.exe
+E:\Project\BTNB\btnb-ass02-opt1\Application_Bee\Application_Bee\obj\Debug\Application_Bee.pdb
