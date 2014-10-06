@@ -132,7 +132,7 @@ namespace Application_Bee
             lstbee.CreateBee();
             lstbee.HienThi();
 
-            while (1>0)
+            while (1 > 0)
             {
                 String str = Console.ReadLine();
                 if (str == "1")
